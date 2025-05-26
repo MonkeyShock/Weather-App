@@ -318,7 +318,7 @@ function getDiaSemanaAbrev(timestamp) {
 }
 
 export default function Index() {
-  const OPENWEATHER_KEY = "18b550649fc5141a1e8ef7d8d8f479b0";
+  const OPENWEATHER_KEY = "Put your api here";
 
   //fonts para deixa bonitin
   let [fontsLoaded] = useFonts({
