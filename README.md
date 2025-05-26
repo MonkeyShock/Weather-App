@@ -1,5 +1,7 @@
 # Welcome to your Weather App 👋
 
+**Create by MonkeyShock**
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.google.com/search?q=%5Bhttps://www.npmjs.com/package/create-expo-app%5D\(https://www.npmjs.com/package/create-expo-app\)), which has been developed into a simple and sleek weather application.
 
 ## About the App
